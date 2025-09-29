@@ -1,0 +1,8 @@
+streamlit
+langchain
+langchain-groq
+langchain-community
+qdrant-client
+sentence-transformers
+langchain-cohere
+unstructured
